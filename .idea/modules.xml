@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/finance-common/finance-common.iml" filepath="$PROJECT_DIR$/finance-common/finance-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager-dao/finance-manager-dao.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager-dao/finance-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager-pojo/finance-manager-pojo.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager-pojo/finance-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager-service/finance-manager-service.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager-service/finance-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager-serviceimpl/finance-manager-serviceimpl.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager-serviceimpl/finance-manager-serviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-manager/finance-manager-web/finance-manager-web.iml" filepath="$PROJECT_DIR$/finance-manager/finance-manager-web/finance-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-parent/finance-parent.iml" filepath="$PROJECT_DIR$/finance-parent/finance-parent.iml" />
+    </modules>
+  </component>
+</project>

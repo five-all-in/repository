@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="finance-common" />
+        <module name="finance-manager-dao" />
+        <module name="finance-manager-pojo" />
+        <module name="finance-manager-service" />
+        <module name="finance-manager-serviceimpl" />
+        <module name="finance-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="finance-common" target="1.5" />
+      <module name="finance-manager" target="1.5" />
+      <module name="finance-manager-dao" target="1.5" />
+      <module name="finance-manager-pojo" target="1.5" />
+      <module name="finance-manager-service" target="1.5" />
+      <module name="finance-manager-serviceimpl" target="1.5" />
+      <module name="finance-manager-web" target="1.8" />
+      <module name="finance-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
