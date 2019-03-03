@@ -6,7 +6,14 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/finance-manager/pom.xml" />
         <option value="$PROJECT_DIR$/finance-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-manager/finance-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-manager/finance-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-manager/finance-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-manager/finance-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-common/pom.xml" />
+        <option value="$PROJECT_DIR$/finance-manager/finance-manager-serviceimpl/pom.xml" />
       </list>
     </option>
   </component>
